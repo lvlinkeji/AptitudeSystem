@@ -1,2 +1,2 @@
 # AptitudeSystem
-AptitudeSystem一体化Windows内核控制系统
+AptitudeSystem一体化Windows辅助控制系统
