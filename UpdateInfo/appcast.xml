@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
     <title>Example app updates</title>
-    <link>http://winsparkle.org/example/appcast.xml</link>
+    <link>https://github.com/lvlinkeji/AptitudeSystem/blob/master/UpdateInfo/appcast.xml</link>
     <description>Appcast for Example app updates.</description>
     <language>en</language>
     <item>
