@@ -7,7 +7,7 @@
     <language>en</language>
     <item>
       <title>Version 1.5.4</title>
-      <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/lvlinkeji/AptitudeSystem/master/UpdateInfo/AptitudeSystemUpdate.html</sparkle:releaseNotesLink>
       <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
       <enclosure url="https://winsparkle.org/example/Poedit-1.8.8-setup.exe"
                  sparkle:version="1.8.8"
